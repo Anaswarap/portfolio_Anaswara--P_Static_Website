@@ -649,7 +649,8 @@ body{
 	line-height:2em;
 }
 .w3_tab_img_left {
-    margin: 2em 0 0;
+    margin: 2em,0, 0;
+
 }
 /*-- //portfolio --*/
 /*-- map --*/
